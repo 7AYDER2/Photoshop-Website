@@ -1,3 +1,17 @@
 # Photoshop-Website
 <h2>challenge From Front-end mentor</h2>
-![backgrond](https://user-images.githubusercontent.com/104260062/227722054-bd1e0a72-9eff-4ea4-bc96-a11e5686a9bd.jpg)
+ 
+<img src="images/screenshot.jpg" alt="project">
+
+Photosnap is a photography website designed by FrontEnd Mentor and coded by me. 
+
+The project is a challenge from FrontEnd Mentor which I partake in.
+
+Built using HTML, CSS, Sass and Javascript.
+
+The project contains four pages which are :
+
+1. Homepage
+2. Stories
+3. Features
+4. Pricing
